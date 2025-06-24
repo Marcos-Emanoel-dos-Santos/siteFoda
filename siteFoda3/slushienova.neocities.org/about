@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>About</title>
+  <link rel="icon" href="./images/favicon.png" type="image/x-icon" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+  <link href="./style/style.css" rel="stylesheet" type="text/css" media="all">
+</head>
+
+<body>
+  <script src="effect.js"></script>
+  <div id="container">
+    <div id="header">
+      <div id="topAlt">...</div>
+      <div id="navigate">This site requires JavaScript!</div>
+    </div>
+    <div id="content">
+      <center>
+        <h1>About</h1>
+      </center>
+      <p></p>
+      <div id="box3">
+        <img src="./images/icon.jpg"
+          style="border: 1px solid white; border-radius: 10px; margin:10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5); float:left;">
+        <div style="display: flex; flex-direction: column;">
+          <h2 style="margin: 10px 5px 5px 5px;">Hello!</h2>
+          <p>
+            You can just call me Slush! I am a Vietnamese digital artist residing in Canada! My current artist name is
+             <b>Slushienova</b> but I use to also go by <b>Hoaimi</b>.</p>
+          <p>
+            Thank you for dropping by!
+          </p>
+        </div>
+        <div id="box2">
+          <center>
+            <h2>Socials</h2>
+            <div style="margin:5px;"></div>
+            <center><img src="./images/resources/loading (1).gif"></center>
+            <p><b>Email</b>: slushienova@proton.me</p>
+            <p>
+              <a href="https://neocities.org/site/slushienova">Neocities</a> -
+              <a href="https://www.pillowfort.social/Slushienova">Pillowfort</a>
+              <a href="https://sheezy.art/slushienova">Sheezy</a> -
+              <a href="https://bsky.app/profile/slushienova.neocities.org">Bluesky</a> 
+            </p>
+            <p> <a href="https://ko-fi.com/slushienova">Ko-fi</a></p>
+          </center>
+        </div>
+      </div>
+      </center>
+    <div id="box2">
+      <center>
+        <div style="display:inline-flex;">
+        <img src="./images/decoration/antipixel6.gif">
+        <img src="./images/decoration/antipixel4.png">
+        <img src="./images/decoration/antipixel5.png">
+        <img src="./images/decoration/antipixel24.png">
+      </div>
+    </center>
+    </div>
+    <center><p>✩₊˚.⋆☾⋆⁺₊✧</p></center>
+    <div id="box3">
+      <div style="margin: 10px;">
+        <h3 style="margin: 5px 5px 5px 5px;">Tools I like to use</h3>
+        <hr class="divider">
+        <li><b>Art:</b> Mainly a FireAlpaca user now. But I use to use Clip Studio Paint</li>
+        <li><b>Moodboards / References:</b> PureRef </li>
+        <li><b>Mapping CSP Shortcuts on Controller:</b> AntimicroX</li>
+        <li><b>For Coding:</b> VSCodium </li>
+        <li><b>Music Player:</b> Musicbee, Winamp</li>
+      </div>
+    </div>
+    <center><p>✩₊˚.⋆☾⋆⁺₊✧</p></center>
+    <div id="box3">
+      <div style="margin: 10px; width:500px;">
+        <h3 style="margin: 5px 5px 5px 5px; ">Likes</h3>
+      <hr class="divider">
+        <li> Lots of music! [Trance, Hardcore, Metal, Rock, Denpa, Colour Bass, Etc] </li>
+        <li> Discovering Doujin Circles </li>
+        <li> Collecting things like CDs, cassettes, limited game editions </li>
+        <li> Mahjong </li>
+        <li> Bugs </li>
+        <li> Puzzle builds </li>
+        <li> Shmups </li>
+      </div>
+      <div>
+        <div style="margin: 10px; width:300px">
+        <h3 style="margin: 5px 5px 5px 5px;">Favourite Media</h3>
+        <hr class="divider">
+        <li> Kyousougiga </li>
+        <li> Tales of Graces </li>
+        <li> Paper Mario </li>
+        <li> Kino's Journey </li>
+        <li> .hack//Sign </li>
+        <li> Dragon Quest Builders 2</li>
+        <li> Classic Maplestory </li>
+        <li> Old Anime-style MMOs </li>
+        <li> Crimzon Clover </li>
+      </div>
+    </div>
+  </div> <!-- end of div id="content" -->
+  <div id="footer"></div>
+  </div> <!-- end of div id="container" -->
+  <script src="./script.js"></script>
+</body>
+
+</html>
